@@ -1,6 +1,12 @@
 >>===== MODE =====>>
-citation-suppress_trailing_punctuation
+citation
 <<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
 
 >>===== KEYS =====>>
 [
@@ -9,12 +15,24 @@ citation-suppress_trailing_punctuation
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Initial test checkin
+zzz
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>see, e.g.</i>, <i>Nix v. Heden</i>, 149 U.S. 304 (1893)
+<i>see, e.g.</i>, <i>Nix v. Heden</i>, 149 U.S. 304 (1893)xxx
 <<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "prefix": "<i>see, e.g.</i>,",
+      "id": "TE2K6L7J",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -37,16 +55,3 @@ Initial test checkin
   }
 ]
 <<===== INPUT =====<<
-
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "prefix": "<i>see, e.g.</i>,",
-      "id": "TE2K6L7J",
-      "position": 0
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
