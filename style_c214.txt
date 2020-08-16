@@ -44,7 +44,7 @@ nasch, Re: Costumes, IP, and Ownership Rights, Comment to <i>Left Shark Bites Ba
         "family": "nasch"
       }
     ],
-    "container-title": "TechDirt",
+    "container-title": "Techdirt",
     "issued": {
       "date-parts": [
         [
