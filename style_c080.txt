@@ -1,5 +1,5 @@
 >>===== MODE =====>>
-citation-suppress_trailing_punctuation
+citation
 <<===== MODE =====<<
 
 >>===== OPTIONS =====>>
@@ -15,11 +15,11 @@ citation-suppress_trailing_punctuation
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Initial test checkin
+Official case names aren't italicized when cited in the full citation for law review articles.
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Beastie Boys v. Monster Energy Co.</i>, No. 12 Civ. 6065 (S.D.N.Y. Dec. 4, 2014)
+Beastie Boys v. Monster Energy Co., No. 12 Civ. 6065 (S.D.N.Y. Dec. 4, 2014)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
