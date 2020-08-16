@@ -1,6 +1,12 @@
 >>===== MODE =====>>
-citation-suppress_trailing_punctuation
+citation
 <<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
 
 >>===== KEYS =====>>
 [
@@ -9,21 +15,21 @@ citation-suppress_trailing_punctuation
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Initial test checkin
+Official case names aren't italicized when cited in the full citation for law review articles.
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Dr. Seuss Enters., L.P. v. Penguin Books USA, Inc.</i>, 109 F.3d 1394 (9th Cir. 1997)
+Dr. Seuss Enters., L.P. v. Penguin Books USA, Inc., 109 F.3d 1394 (9th Cir. 1997)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
 [
-[
-  {
-    "id": "6JN6NI86",
-    "position": 0
-  }
-]
+  [
+    {
+      "id": "6JN6NI86",
+      "position": 0
+    }
+  ]
 ]
 <<===== CITATION-ITEMS =====<<
 
@@ -35,7 +41,7 @@ Initial test checkin
     "title": "Dr. Seuss Enters., L.P. v. Penguin Books USA, Inc.",
     "container-title": "F.3d",
     "volume": "109",
-    "authority": "court.appeals",
+    "authority": "Court of Appeals",
     "page": "1394",
     "issued": {
       "date-parts": [
@@ -44,7 +50,7 @@ Initial test checkin
         ]
       ]
     },
-    "jurisdiction": "us:c9"
+    "jurisdiction": "US|Ninth Circuit"
   }
 ]
 <<===== INPUT =====<<
