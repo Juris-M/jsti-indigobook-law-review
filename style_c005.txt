@@ -1,6 +1,12 @@
 >>===== MODE =====>>
-citation-suppress_trailing_punctuation
+citation
 <<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
 
 >>===== KEYS =====>>
 [
@@ -9,42 +15,12 @@ citation-suppress_trailing_punctuation
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Initial test checkin
+Official case names aren't italicized when cited in the full citation for law review articles.
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Arizona v. Hicks</i>, 480 U.S. 321, 329 (1987)
+Arizona v. Hicks, 480 U.S. 321, 329 (1987)
 <<===== RESULT =====<<
-
->>===== INPUT =====>>
-[
-  {
-    "id": "VMEQEIGF",
-    "type": "legal_case",
-    "title": "Arizona v. Hicks",
-    "container-title": "U.S.",
-    "volume": "480",
-    "authority": "supreme.court",
-    "page": "321",
-    "issued": {
-      "date-parts": [
-        [
-          1987
-        ]
-      ]
-    },
-    "jurisdiction": "us"
-  }
-]
-<<===== INPUT =====<<
-
-
->>===== OPTIONS =====>>
-{
-  "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
 
 >>===== CITATION-ITEMS =====>>
 [
@@ -57,3 +33,25 @@ Initial test checkin
   ]
 ]
 <<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "VMEQEIGF",
+    "type": "legal_case",
+    "title": "Arizona v. Hicks",
+    "container-title": "U.S.",
+    "volume": "480",
+    "authority": "Supreme Court",
+    "page": "321",
+    "issued": {
+      "date-parts": [
+        [
+          1987
+        ]
+      ]
+    },
+    "jurisdiction": "United States|US"
+  }
+]
+<<===== INPUT =====<<
