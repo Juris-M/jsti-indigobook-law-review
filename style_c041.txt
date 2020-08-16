@@ -1,6 +1,12 @@
 >>===== MODE =====>>
-citation-suppress_trailing_punctuation
+citation
 <<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
 
 >>===== KEYS =====>>
 [
@@ -9,12 +15,23 @@ citation-suppress_trailing_punctuation
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Initial test checkin
+Case names aren't italicized when cited in law review articles.
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Toolson v. N.Y. Yankees, Inc.</i>, 346 U.S. 356 (1953)
+Toolson v. N.Y. Yankees, Inc., 346 U.S. 356 (1953)
 <<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "4DAVIATT",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -37,15 +54,3 @@ Initial test checkin
   }
 ]
 <<===== INPUT =====<<
-
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "4DAVIATT",
-      "position": 0
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
