@@ -1,6 +1,12 @@
 >>===== MODE =====>>
-citation-suppress_trailing_punctuation
+citation
 <<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
 
 >>===== KEYS =====>>
 [
@@ -9,21 +15,21 @@ citation-suppress_trailing_punctuation
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Initial test checkin
+Official case names aren't italicized when cited in the full citation for law review articles.
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Terrible v. Terrible</i>, 534 P.2d 919 (Nev. 1975)
+Terrible v. Terrible, 534 P.2d 919 (Nev. 1975)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
 [
-[
-  {
-    "id": "9NLTIPW7",
-    "position": 0
-  }
-]
+  [
+    {
+      "id": "9NLTIPW7",
+      "position": 0
+    }
+  ]
 ]
 <<===== CITATION-ITEMS =====<<
 
@@ -35,7 +41,7 @@ Initial test checkin
     "title": "Terrible v. Terrible",
     "container-title": "P.2d",
     "volume": "534",
-    "authority": "supreme.court",
+    "authority": "Supreme Court",
     "page": "919",
     "issued": {
       "date-parts": [
@@ -44,7 +50,7 @@ Initial test checkin
         ]
       ]
     },
-    "jurisdiction": "us:nv"
+    "jurisdiction": "US|Nevada"
   }
 ]
 <<===== INPUT =====<<
