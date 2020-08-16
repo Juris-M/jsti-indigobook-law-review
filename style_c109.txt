@@ -1,5 +1,5 @@
 >>===== MODE =====>>
-citation-suppress_trailing_punctuation
+citation
 <<===== MODE =====<<
 
 >>===== OPTIONS =====>>
@@ -15,11 +15,11 @@ citation-suppress_trailing_punctuation
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Initial test checkin
+Official case names aren't italicized when cited in the full citation for law review articles.
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>A Book Named “John Cleveland’s Memoirs of a Woman of Pleasure” v. Attorney Gen. of Com. of Mass.</i>, 383 U.S. 413, 418 (1966)
+A Book Named “John Cleveland’s Memoirs of a Woman of Pleasure” v. Attorney Gen. of Com. of Mass., 383 U.S. 413, 418 (1966)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
@@ -51,6 +51,7 @@ Initial test checkin
         ]
       ]
     },
+    "shortTitle": "Memoirs",
     "jurisdiction": "us"
   }
 ]
