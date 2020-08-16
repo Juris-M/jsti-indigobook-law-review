@@ -1,6 +1,12 @@
 >>===== MODE =====>>
-citation-suppress_trailing_punctuation
+citation
 <<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
 
 >>===== KEYS =====>>
 [
@@ -9,22 +15,22 @@ citation-suppress_trailing_punctuation
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Initial test checkin
+Official case names aren't italicized when cited in the full citation for law review articles.
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Gordon v. Secretary of State of New Jersey</i>, 460 F. Supp. 1026, 1026, 1028 (D.N.J. 1978)
+Gordon v. Secretary of State of New Jersey, 460 F. Supp. 1026, 1026, 1028 (D.N.J. 1978)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
 [
-[
-  {
-    "id": "BS7H6L8T",
-    "position": 0,
-    "locator": "p. 1026, 1028"
-  }
-]
+  [
+    {
+      "id": "BS7H6L8T",
+      "position": 0,
+      "locator": "p. 1026, 1028"
+    }
+  ]
 ]
 <<===== CITATION-ITEMS =====<<
 
