@@ -13,19 +13,8 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Two Pesos, Inc. v. Taco Cabana, Inc.</i>, 505 U.S. 763 (1992)
+Two Pesos, Inc. v. Taco Cabana, Inc., 505 U.S. 763 (1992)
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-[
-  {
-    "id": "KW4ENKGQ",
-    "position": 0
-  }
-]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -48,3 +37,15 @@ Initial test checkin
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "KW4ENKGQ",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

@@ -2,12 +2,6 @@
 citation-suppress_trailing_punctuation
 <<===== MODE =====<<
 
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
 >>===== KEYS =====>>
 [
   "A8C4NXE5",
@@ -20,24 +14,8 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>United States v. Schmuck</i>, 840 F.2d 384 (7th Cir. 1988), <i>aff’d</i>, 489 U.S. 705 (1989)
+United States v. Schmuck, 840 F.2d 384 (7th Cir. 1988), <i>aff’d</i>, 489 U.S. 705 (1989)
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "A8C4NXE5",
-      "position": 0
-    },
-    {
-      "prefix": "<i>aff'd</i>,",
-      "id": "TZ3M6I7R",
-      "position": 0
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -85,3 +63,27 @@ Initial test checkin
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "A8C4NXE5",
+      "position": 0
+    },
+    {
+      "prefix": "<i>aff'd</i>,",
+      "id": "TZ3M6I7R",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

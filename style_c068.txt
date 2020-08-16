@@ -13,20 +13,8 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Brown v. Entm’t Merchs. Ass’n</i>, 131 S. Ct. 2729, 2738 (2011)
+Brown v. Entm’t Merchs. Ass’n, 131 S. Ct. 2729, 2738 (2011)
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-[
-  {
-    "id": "NHHMS5NA",
-    "position": 0,
-    "locator": "p. 2738"
-  }
-]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -49,3 +37,16 @@ Initial test checkin
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "NHHMS5NA",
+      "position": 0,
+      "locator": "p. 2738"
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

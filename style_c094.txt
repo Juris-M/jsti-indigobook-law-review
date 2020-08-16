@@ -13,19 +13,8 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Lerman v. Comm’r</i>, 939 F.2d 44 (3d Cir. 1991)
+Lerman v. Comm’r, 939 F.2d 44 (3d Cir. 1991)
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-[
-  {
-    "id": "NHYVL5GD",
-    "position": 0
-  }
-]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -48,3 +37,15 @@ Initial test checkin
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "NHYVL5GD",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

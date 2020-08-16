@@ -13,20 +13,8 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Fenton v. Quaboag Country Club</i>, 233 N.E.2d 216, 219 (Mass. 1968)
+Fenton v. Quaboag Country Club, 233 N.E.2d 216, 219 (Mass. 1968)
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-[
-  {
-    "id": "SR2XRUKU",
-    "position": 0,
-    "locator": "p. 219"
-  }
-]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -49,3 +37,16 @@ Initial test checkin
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "SR2XRUKU",
+      "position": 0,
+      "locator": "p. 219"
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

@@ -13,19 +13,8 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Gonzalez v. Raich</i>, 545 U.S. 1 (2005)
+Gonzalez v. Raich, 545 U.S. 1 (2005)
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-[
-  {
-    "id": "RCYEIQTQ",
-    "position": 0
-  }
-]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -48,3 +37,15 @@ Initial test checkin
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "RCYEIQTQ",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

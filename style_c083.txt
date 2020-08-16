@@ -13,19 +13,8 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>United States v. Leggett</i>, 23 F.3d 409 (6th Cir. 1994)
+United States v. Leggett, 23 F.3d 409 (6th Cir. 1994)
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-[
-  {
-    "id": "AU63L26P",
-    "position": 0
-  }
-]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -48,3 +37,15 @@ Initial test checkin
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "AU63L26P",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

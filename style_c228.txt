@@ -13,20 +13,8 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Viacom Int’l, Inc. v. YouTube, Inc.</i>, 676 F.3d 19, 31 (2d Cir. 2012)
+Viacom Int’l, Inc. v. YouTube, Inc., 676 F.3d 19, 31 (2d Cir. 2012)
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-[
-  {
-    "id": "SN5P2GHJ",
-    "position": 0,
-    "locator": "p. 31"
-  }
-]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -49,3 +37,16 @@ Initial test checkin
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "SN5P2GHJ",
+      "position": 0,
+      "locator": "p. 31"
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

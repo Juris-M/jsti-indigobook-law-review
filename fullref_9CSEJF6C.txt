@@ -1,5 +1,5 @@
 >>===== MODE =====>>
-citation
+citation-suppress_trailing_punctuation
 <<===== MODE =====<<
 
 >>===== KEYS =====>>
@@ -13,7 +13,7 @@ Short form of 9CSEJF6C z0049 z0015 71 z2698 z0016 82 z2716 267 101 z2768 z2779 1
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Bowling Green v. Godwin</i>, 110 Ohio St.3d 58 (2006)
+Bowling Green v. Godwin, 110 Ohio St.3d 58 (2006)
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

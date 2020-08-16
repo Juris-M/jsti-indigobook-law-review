@@ -13,19 +13,8 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Near v. Minnesota ex rel. Olson</i>, 283 U.S. 697 (1931)
+Near v. Minnesota ex rel. Olson, 283 U.S. 697 (1931)
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-[
-  {
-    "id": "DQ7WQRQH",
-    "position": 0
-  }
-]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -48,3 +37,15 @@ Initial test checkin
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "DQ7WQRQH",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

@@ -1,12 +1,6 @@
 >>===== MODE =====>>
-citation
+citation-suppress_trailing_punctuation
 <<===== MODE =====<<
-
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
 
 >>===== KEYS =====>>
 [
@@ -19,19 +13,8 @@ Short form of AW85KJWB z0049 z0015 71 z3147 z0016 82 z3165 267 101 z3217 z3218 1
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Jones v. Smith</i>, 1999 PA Super 1
+Jones v. Smith, 1999 PA Super 1
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "AW85KJWB",
-      "position": 0
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -53,3 +36,22 @@ Short form of AW85KJWB z0049 z0015 71 z3147 z0016 82 z3165 267 101 z3217 z3218 1
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "AW85KJWB",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

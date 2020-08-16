@@ -2,12 +2,6 @@
 citation-suppress_trailing_punctuation
 <<===== MODE =====<<
 
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
 >>===== KEYS =====>>
 [
   "ENKSZTTA"
@@ -19,20 +13,8 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Smith v. Jones</i>, 2000 WI 14, ¶ 6
+Smith v. Jones, 2000 WI 14, ¶ 6
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "ENKSZTTA",
-      "position": 0,
-      "locator": "para. 6"
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -54,3 +36,23 @@ Initial test checkin
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "ENKSZTTA",
+      "position": 0,
+      "locator": "para. 6"
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

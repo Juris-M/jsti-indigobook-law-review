@@ -13,19 +13,8 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Harris v. State</i>, 887 S.W.2d 514 (Ark. 1994)
+Harris v. State, 887 S.W.2d 514 (Ark. 1994)
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-[
-  {
-    "id": "FPTD98BW",
-    "position": 0
-  }
-]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -48,3 +37,15 @@ Initial test checkin
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "FPTD98BW",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

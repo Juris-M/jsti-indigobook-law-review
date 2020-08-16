@@ -2,12 +2,6 @@
 citation-suppress_trailing_punctuation
 <<===== MODE =====<<
 
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
 >>===== KEYS =====>>
 [
   "M8TSHK2B"
@@ -19,19 +13,8 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Facebook, Inc., 2014 Annual Report (2014)
+<i>Facebook, Inc., 2014 Annual Report</i> (2014)
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "M8TSHK2B",
-      "position": 0
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -50,3 +33,22 @@ Facebook, Inc., 2014 Annual Report (2014)
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "M8TSHK2B",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

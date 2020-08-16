@@ -13,19 +13,8 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Terrible v. Terrible</i>, 534 P.2d 919 (Nev. 1975)
+Terrible v. Terrible, 534 P.2d 919 (Nev. 1975)
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-[
-  {
-    "id": "9NLTIPW7",
-    "position": 0
-  }
-]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -48,3 +37,15 @@ Initial test checkin
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "9NLTIPW7",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

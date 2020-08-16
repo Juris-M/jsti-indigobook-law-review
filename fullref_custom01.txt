@@ -1,0 +1,64 @@
+>>===== MODE =====>>
+citation-suppress_trailing_punctuation
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "XAL7VTK8"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Custom test, for online newspapers, flagged by Alex.
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Megan M. Carpenter, <i>Trademark Law Promotes Fair Competition, Not Morality</i>, <span style="font-variant:small-caps;">N.Y. Times</span> (May 4, 2016, 9:51 AM), <a href="https://perma.cc/BT5Z-EB7Y">https://perma.cc/BT5Z-EB7Y</a>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "XAL7VTK8",
+    "type": "article-newspaper",
+    "title": "Trademark Law Promotes Fair Competition, Not Morality",
+    "container-title": "N.Y. Times",
+    "author": [
+      {
+        "given": "Megan M.",
+        "family": "Carpenter"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          2016,
+          5,
+          4
+        ]
+      ]
+    },
+    "note": "event-date: 9:51 AM",
+    "URL": "https://perma.cc/BT5Z-EB7Y"
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "XAL7VTK8",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

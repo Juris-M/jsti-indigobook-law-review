@@ -13,20 +13,8 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Exxon Mobil Corp. v. Allapattah Servs., Inc.</i>, 545 U.S. 546, 571 (2005)
+Exxon Mobil Corp. v. Allapattah Servs., Inc., 545 U.S. 546, 571 (2005)
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-[
-  {
-    "id": "ANQBGJ6M",
-    "position": 0,
-    "locator": "p. 571"
-  }
-]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -49,3 +37,16 @@ Initial test checkin
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "ANQBGJ6M",
+      "position": 0,
+      "locator": "p. 571"
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

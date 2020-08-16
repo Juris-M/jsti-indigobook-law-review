@@ -1,5 +1,5 @@
 >>===== MODE =====>>
-citation
+citation-suppress_trailing_punctuation
 <<===== MODE =====<<
 
 >>===== KEYS =====>>
@@ -13,7 +13,7 @@ Short form of CN33JYZH z0049 z0015 71 z2014 z0016 82 z2032 267 101 z2084 z2085 1
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Doe v. Roe</i>, 1998 MT 12
+Doe v. Roe, 1998 MT 12
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

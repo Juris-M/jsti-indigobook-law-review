@@ -2,12 +2,6 @@
 citation-suppress_trailing_punctuation
 <<===== MODE =====<<
 
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
 >>===== KEYS =====>>
 [
   "VR43Z9SJ"
@@ -19,19 +13,8 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Behavioral patterns of locusts, Inv. No. 13, USITC Pub. 15 (Apr. 1, 2000) (Review)
+<i>Behavioral patterns of locusts</i>, Inv. No. 13, USITC Pub. 15 (Apr. 1, 2000) (Review)
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "VR43Z9SJ",
-      "position": 0
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -58,3 +41,22 @@ Behavioral patterns of locusts, Inv. No. 13, USITC Pub. 15 (Apr. 1, 2000) (Revie
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "VR43Z9SJ",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

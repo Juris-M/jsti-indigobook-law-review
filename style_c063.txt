@@ -13,20 +13,8 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Helton v. State</i>, 311 So. 2d 381, 382–84 (Fla. Dist. Ct. App. 1975)
+Helton v. State, 311 So. 2d 381, 382–84 (Fla. Dist. Ct. App. 1975)
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-[
-  {
-    "id": "RMDSE7GL",
-    "position": 0,
-    "locator": "382-384"
-  }
-]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -49,3 +37,16 @@ Initial test checkin
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "RMDSE7GL",
+      "position": 0,
+      "locator": "382-384"
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

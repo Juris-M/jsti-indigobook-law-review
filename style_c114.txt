@@ -13,20 +13,8 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Hormel Foods Corp. v. Jim Henson Prods., Inc.</i>, 73 F.3d 497, 504 (2d Cir. 1996)
+Hormel Foods Corp. v. Jim Henson Prods., Inc., 73 F.3d 497, 504 (2d Cir. 1996)
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-[
-  {
-    "id": "UENGIS6P",
-    "position": 0,
-    "locator": "p. 504"
-  }
-]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -49,3 +37,16 @@ Initial test checkin
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "UENGIS6P",
+      "position": 0,
+      "locator": "p. 504"
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

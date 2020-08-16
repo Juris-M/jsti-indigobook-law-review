@@ -1,12 +1,6 @@
 >>===== MODE =====>>
-citation
+citation-suppress_trailing_punctuation
 <<===== MODE =====<<
-
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
 
 >>===== KEYS =====>>
 [
@@ -19,20 +13,8 @@ Short form of DLEBU843 z0058 z0044 z0031 z0068 z0031 z0070 z0074 z0075
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Superfan Suits, <i>supra</i>
+<span style="font-variant:small-caps;">Superfan Suits</span>, <i>supra</i>
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "DLEBU843",
-      "position": 1,
-      "near-note": 1
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -53,3 +35,23 @@ Superfan Suits, <i>supra</i>
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "DLEBU843",
+      "position": 1,
+      "near-note": 1
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

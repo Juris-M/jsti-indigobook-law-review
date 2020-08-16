@@ -1,12 +1,6 @@
 >>===== MODE =====>>
-citation
+citation-suppress_trailing_punctuation
 <<===== MODE =====<<
-
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
 
 >>===== KEYS =====>>
 [
@@ -19,19 +13,8 @@ Short form of RT3P37DF z0043 z0031 z0068 z0031 z0071 z0074
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-nasch, Re: Costumes, IP, and Ownership Rights, Comment to <i>Left Shark Bites Back</i>, TechDirt (Feb. 14, 2015, 9:55 AM), <a href="https://www.techdirt.com/articles/20150209/11373729960/left-shark-bites-back-3d-printer-sculptor-hires-lawyer-to-respond-to-katy-perrys-bogus-takedown.shtml">https://www.techdirt.com/articles/20150209/11373729960/left-shark-bites-back-3d-printer-sculptor-hires-lawyer-to-respond-to-katy-perrys-bogus-takedown.shtml</a>
+nasch, Re: Costumes, IP, and Ownership Rights, Comment to <i>Left Shark Bites Back</i>, <span style="font-variant:small-caps;">Techdirt</span> (Feb. 14, 2015, 9:55 AM), <a href="https://www.techdirt.com/articles/20150209/11373729960/left-shark-bites-back-3d-printer-sculptor-hires-lawyer-to-respond-to-katy-perrys-bogus-takedown.shtml">https://www.techdirt.com/articles/20150209/11373729960/left-shark-bites-back-3d-printer-sculptor-hires-lawyer-to-respond-to-katy-perrys-bogus-takedown.shtml</a>
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "RT3P37DF",
-      "position": 0
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -44,7 +27,7 @@ nasch, Re: Costumes, IP, and Ownership Rights, Comment to <i>Left Shark Bites Ba
         "family": "nasch"
       }
     ],
-    "container-title": "TechDirt",
+    "container-title": "Techdirt",
     "issued": {
       "date-parts": [
         [
@@ -60,3 +43,22 @@ nasch, Re: Costumes, IP, and Ownership Rights, Comment to <i>Left Shark Bites Ba
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "RT3P37DF",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

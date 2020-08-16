@@ -13,20 +13,8 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Nance v. United States</i>, 299 F.2d 122, 124 (D.C. Cir. 1962)
+Nance v. United States, 299 F.2d 122, 124 (D.C. Cir. 1962)
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-[
-  {
-    "id": "KW7KHLKG",
-    "position": 0,
-    "locator": "p. 124"
-  }
-]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -49,3 +37,16 @@ Initial test checkin
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "KW7KHLKG",
+      "position": 0,
+      "locator": "p. 124"
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

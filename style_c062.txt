@@ -13,20 +13,8 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Gordon v. Secretary of State of New Jersey</i>, 460 F. Supp. 1026, 1026, 1028 (D.N.J. 1978)
+Gordon v. Secretary of State of New Jersey, 460 F. Supp. 1026, 1026, 1028 (D.N.J. 1978)
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-[
-  {
-    "id": "BS7H6L8T",
-    "position": 0,
-    "locator": "p. 1026, 1028"
-  }
-]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -49,3 +37,16 @@ Initial test checkin
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "BS7H6L8T",
+      "position": 0,
+      "locator": "p. 1026, 1028"
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

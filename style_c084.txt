@@ -13,19 +13,8 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Ward v. Rock Against Racism</i>, 491 U.S. 781 (1989)
+Ward v. Rock Against Racism, 491 U.S. 781 (1989)
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-[
-  {
-    "id": "NEB2B4SF",
-    "position": 0
-  }
-]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -48,3 +37,15 @@ Initial test checkin
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "NEB2B4SF",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

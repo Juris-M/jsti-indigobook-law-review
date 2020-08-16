@@ -1,5 +1,5 @@
 >>===== MODE =====>>
-citation
+citation-suppress_trailing_punctuation
 <<===== MODE =====<<
 
 >>===== KEYS =====>>
@@ -13,7 +13,7 @@ Short form of HPEFSYTX z0049 z0015 71 z4283 z0016 82 z4301 737 101 z4353 z4363 1
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Bowling Green v. Godwin</i>, 850 N.E.2d 698 (Ohio 2006)
+Bowling Green v. Godwin, 850 N.E.2d 698 (Ohio 2006)
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

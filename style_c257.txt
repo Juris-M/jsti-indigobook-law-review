@@ -2,12 +2,6 @@
 citation-suppress_trailing_punctuation
 <<===== MODE =====<<
 
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
 >>===== KEYS =====>>
 [
   "EGWSSH3V"
@@ -19,20 +13,8 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Institute of Education Sciences, National Board for Education Sciences Annual Report 12 (2014)
+Institute of Education Sciences, <i>National Board for Education Sciences Annual Report</i> 12 (2014)
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "EGWSSH3V",
-      "position": 0,
-      "locator": "p. 12"
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -52,3 +34,23 @@ Institute of Education Sciences, National Board for Education Sciences Annual Re
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "EGWSSH3V",
+      "position": 0,
+      "locator": "p. 12"
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

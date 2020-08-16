@@ -13,7 +13,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Compare</i> <i>Lochner v. New York</i>, 198 U.S. 45 (1905)
+<i>Compare</i> Lochner v. New York, 198 U.S. 45 (1905)
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

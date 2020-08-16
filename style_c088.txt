@@ -13,20 +13,8 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>People v. Foranyic</i>, 74 Cal. Rptr. 2d 804, 807 (Ct. App. 1998)
+People v. Foranyic, 74 Cal. Rptr. 2d 804, 807 (Ct. App. 1998)
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-[
-  {
-    "id": "3A2SGMNI",
-    "position": 0,
-    "locator": "p. 807"
-  }
-]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -49,3 +37,16 @@ Initial test checkin
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "3A2SGMNI",
+      "position": 0,
+      "locator": "p. 807"
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

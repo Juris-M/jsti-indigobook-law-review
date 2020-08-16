@@ -13,20 +13,8 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Dep’t of Revenue v. James B. Beam Distilling Co.</i>, 377 U.S. 341, 349 (1964)
+Dep’t of Revenue v. James B. Beam Distilling Co., 377 U.S. 341, 349 (1964)
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-[
-  {
-    "id": "CDDYBPHD",
-    "position": 0,
-    "locator": "p. 349"
-  }
-]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -49,3 +37,16 @@ Initial test checkin
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "CDDYBPHD",
+      "position": 0,
+      "locator": "p. 349"
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
