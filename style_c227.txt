@@ -1,5 +1,5 @@
 >>===== MODE =====>>
-citation-suppress_trailing_punctuation
+citation
 <<===== MODE =====<<
 
 >>===== OPTIONS =====>>
@@ -15,11 +15,11 @@ citation-suppress_trailing_punctuation
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Initial test checkin
+Official case names aren't italicized when cited in the full citation for law review articles.
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>See</i> <i>Ty, Inc. v. Publ’ns Int’l Ltd.</i>, 292 F.3d 512, 520 (7th Cir. 2002)
+<i>See</i> Ty, Inc. v. Publ’ns Int’l Ltd., 292 F.3d 512, 520 (7th Cir. 2002)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
