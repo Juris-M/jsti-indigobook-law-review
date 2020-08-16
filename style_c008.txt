@@ -1,6 +1,12 @@
 >>===== MODE =====>>
-citation-suppress_trailing_punctuation
+citation
 <<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
 
 >>===== KEYS =====>>
 [
@@ -9,12 +15,24 @@ citation-suppress_trailing_punctuation
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Initial test checkin
+Official case names aren't italicized when cited in the full citation for law review articles.
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>cf.</i> <i>United States v. Jones</i>, 132 S. Ct. 945 (2012)
+<i>cf.</i> United States v. Jones, 132 S. Ct. 945 (2012)
 <<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "prefix": "<i>cf.</i>",
+      "id": "BFMX24KJ",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -37,16 +55,3 @@ Initial test checkin
   }
 ]
 <<===== INPUT =====<<
-
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "prefix": "<i>cf.</i>",
-      "id": "BFMX24KJ",
-      "position": 0
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
