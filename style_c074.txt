@@ -1,6 +1,12 @@
 >>===== MODE =====>>
-citation-suppress_trailing_punctuation
+citation
 <<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
 
 >>===== KEYS =====>>
 [
@@ -9,21 +15,21 @@ citation-suppress_trailing_punctuation
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Initial test checkin
+Official case names aren't italicized when cited in the full citation for law review articles.
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>State v. One 1970 2-Door Sedan Rambler</i>, 136 N.W. 59 (Neb. 1974)
+State v. One 1970 2-Door Sedan Rambler, 136 N.W. 59 (Neb. 1974)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
 [
-[
-  {
-    "id": "H7HUKKAZ",
-    "position": 0
-  }
-]
+  [
+    {
+      "id": "H7HUKKAZ",
+      "position": 0
+    }
+  ]
 ]
 <<===== CITATION-ITEMS =====<<
 
