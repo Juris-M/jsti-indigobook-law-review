@@ -1,6 +1,12 @@
 >>===== MODE =====>>
-citation-suppress_trailing_punctuation
+citation
 <<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
 
 >>===== KEYS =====>>
 [
@@ -9,22 +15,22 @@ citation-suppress_trailing_punctuation
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Initial test checkin
+Official case names aren't italicized when cited in the full citation for law review articles.
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Hormel Foods Corp. v. Jim Henson Prods., Inc.</i>, 73 F.3d 497, 504 (2d Cir. 1996)
+Hormel Foods Corp. v. Jim Henson Prods., Inc., 73 F.3d 497, 504 (2d Cir. 1996)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
 [
-[
-  {
-    "id": "UENGIS6P",
-    "position": 0,
-    "locator": "p. 504"
-  }
-]
+  [
+    {
+      "id": "UENGIS6P",
+      "position": 0,
+      "locator": "p. 504"
+    }
+  ]
 ]
 <<===== CITATION-ITEMS =====<<
 
@@ -36,7 +42,7 @@ Initial test checkin
     "title": "Hormel Foods Corp. v. Jim Henson Prods., Inc.",
     "container-title": "F.3d",
     "volume": "73",
-    "authority": "court.appeals",
+    "authority": "Court of Appeals",
     "page": "497",
     "issued": {
       "date-parts": [
@@ -45,7 +51,7 @@ Initial test checkin
         ]
       ]
     },
-    "jurisdiction": "us:c2"
+    "jurisdiction": "US|Second Circuit"
   }
 ]
 <<===== INPUT =====<<
