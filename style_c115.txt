@@ -1,5 +1,5 @@
 >>===== MODE =====>>
-citation-suppress_trailing_punctuation
+citation
 <<===== MODE =====<<
 
 >>===== OPTIONS =====>>
@@ -15,11 +15,11 @@ citation-suppress_trailing_punctuation
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Initial test checkin
+Official case names aren't italicized when cited in the full citation for law review articles.
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Naked Cowboy v. CBS</i>, 844 F. Supp. 2d 510, 517–18 (S.D.N.Y. 2012)
+Naked Cowboy v. CBS, 844 F. Supp. 2d 510, 517–18 (S.D.N.Y. 2012)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
@@ -42,7 +42,7 @@ Initial test checkin
     "title": "Naked Cowboy v. CBS",
     "container-title": "F. Supp. 2d",
     "volume": "844",
-    "authority": "district.court",
+    "authority": "District Court",
     "page": "510",
     "issued": {
       "date-parts": [
@@ -51,7 +51,8 @@ Initial test checkin
         ]
       ]
     },
-    "jurisdiction": "us:c2:ny.sd"
+    "shortTitle": "Naked Cowboy",
+    "jurisdiction": "US|Second Circuit|S.D. New York"
   }
 ]
 <<===== INPUT =====<<
