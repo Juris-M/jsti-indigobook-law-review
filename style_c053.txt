@@ -1,6 +1,12 @@
 >>===== MODE =====>>
-citation-suppress_trailing_punctuation
+citation
 <<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
 
 >>===== KEYS =====>>
 [
@@ -9,12 +15,23 @@ citation-suppress_trailing_punctuation
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Initial test checkin
+Official case names aren't italicized when cited in the full citation for law review articles.
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>McDonnell Douglas Corp. v. Green</i>, 411 U.S. 792 (1973)
+McDonnell Douglas Corp. v. Green, 411 U.S. 792 (1973)
 <<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "N35VFXXW",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -37,22 +54,3 @@ Initial test checkin
   }
 ]
 <<===== INPUT =====<<
-
-
->>===== OPTIONS =====>>
-{
-  "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "N35VFXXW",
-      "position": 0
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
