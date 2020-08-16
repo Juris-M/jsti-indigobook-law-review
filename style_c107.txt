@@ -1,6 +1,12 @@
 >>===== MODE =====>>
-citation-suppress_trailing_punctuation
+citation
 <<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
 
 >>===== KEYS =====>>
 [
@@ -9,21 +15,21 @@ citation-suppress_trailing_punctuation
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Initial test checkin
+Official case names aren't italicized when cited in the full citation for law review articles.
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Gonzalez v. Raich</i>, 545 U.S. 1 (2005)
+Gonzalez v. Raich, 545 U.S. 1 (2005)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
 [
-[
-  {
-    "id": "RCYEIQTQ",
-    "position": 0
-  }
-]
+  [
+    {
+      "id": "RCYEIQTQ",
+      "position": 0
+    }
+  ]
 ]
 <<===== CITATION-ITEMS =====<<
 
@@ -44,6 +50,7 @@ Initial test checkin
         ]
       ]
     },
+    "shortTitle": "Raich",
     "jurisdiction": "us"
   }
 ]
