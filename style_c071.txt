@@ -1,6 +1,12 @@
 >>===== MODE =====>>
-citation-suppress_trailing_punctuation
+citation
 <<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
 
 >>===== KEYS =====>>
 [
@@ -9,22 +15,22 @@ citation-suppress_trailing_punctuation
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Initial test checkin
+Official case names aren't italicized when cited in the full citation for law review articles.
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Frigaliment Importing Co. v. B.N.S. International Sales Corp.</i>, 190 F. Supp. 116, 117 (S.D.N.Y. 1960)
+Frigaliment Importing Co. v. B.N.S. International Sales Corp., 190 F. Supp. 116, 117 (S.D.N.Y. 1960)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
 [
-[
-  {
-    "id": "XVYEQZB9",
-    "position": 0,
-    "locator": "p. 117"
-  }
-]
+  [
+    {
+      "id": "XVYEQZB9",
+      "position": 0,
+      "locator": "p. 117"
+    }
+  ]
 ]
 <<===== CITATION-ITEMS =====<<
 
