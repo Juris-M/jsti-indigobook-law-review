@@ -1,5 +1,5 @@
 >>===== MODE =====>>
-citation-suppress_trailing_punctuation
+citation
 <<===== MODE =====<<
 
 >>===== OPTIONS =====>>
@@ -15,11 +15,11 @@ citation-suppress_trailing_punctuation
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Initial test checkin
+Official case names aren't italicized when cited in the full citation for law review articles.
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Yates v. United States</i>, No. 13-7451, 2015 U.S. LEXIS 1503, at *40 (Feb. 25, 2015)
+Yates v. United States, No. 13-7451, 2015 U.S. LEXIS 1503, at *40 (Feb. 25, 2015)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
