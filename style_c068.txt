@@ -1,6 +1,12 @@
 >>===== MODE =====>>
-citation-suppress_trailing_punctuation
+citation
 <<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
 
 >>===== KEYS =====>>
 [
@@ -9,22 +15,22 @@ citation-suppress_trailing_punctuation
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Initial test checkin
+Official case names aren't italicized when cited in the full citation for law review articles.
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Brown v. Entm’t Merchs. Ass’n</i>, 131 S. Ct. 2729, 2738 (2011)
+Brown v. Entm’t Merchs. Ass’n, 131 S. Ct. 2729, 2738 (2011)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
 [
-[
-  {
-    "id": "NHHMS5NA",
-    "position": 0,
-    "locator": "p. 2738"
-  }
-]
+  [
+    {
+      "id": "NHHMS5NA",
+      "position": 0,
+      "locator": "p. 2738"
+    }
+  ]
 ]
 <<===== CITATION-ITEMS =====<<
 
