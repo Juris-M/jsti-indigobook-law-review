@@ -1,6 +1,12 @@
 >>===== MODE =====>>
-citation-suppress_trailing_punctuation
+citation
 <<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
 
 >>===== KEYS =====>>
 [
@@ -9,12 +15,24 @@ citation-suppress_trailing_punctuation
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Initial test checkin
+Official case names aren't italicized when cited in the full citation for law review articles.
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>See</i> <i>Nix v. Heden</i>, 149 U.S. 304 (1893)
+<i>See</i> Nix v. Heden, 149 U.S. 304 (1893)
 <<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "prefix": "<i>See</i>",
+      "id": "TE2K6L7J",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -37,16 +55,3 @@ Initial test checkin
   }
 ]
 <<===== INPUT =====<<
-
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "prefix": "<i>See</i>",
-      "id": "TE2K6L7J",
-      "position": 0
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
