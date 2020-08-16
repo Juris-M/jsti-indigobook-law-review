@@ -1,5 +1,5 @@
 >>===== MODE =====>>
-citation-suppress_trailing_punctuation
+citation
 <<===== MODE =====<<
 
 >>===== OPTIONS =====>>
@@ -15,11 +15,11 @@ citation-suppress_trailing_punctuation
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Initial test checkin
+Official case names aren't italicized when cited in the full citation for law review articles.
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Selmon v. Hasbro Bradley, Inc.</i>, 669 F. Supp. 1267, 1272–73 (S.D.N.Y. 1987)
+Selmon v. Hasbro Bradley, Inc., 669 F. Supp. 1267, 1272–73 (S.D.N.Y. 1987)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
