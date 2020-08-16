@@ -1,5 +1,5 @@
 >>===== MODE =====>>
-citation-suppress_trailing_punctuation
+citation
 <<===== MODE =====<<
 
 >>===== OPTIONS =====>>
@@ -11,16 +11,16 @@ citation-suppress_trailing_punctuation
 >>===== KEYS =====>>
 [
   "A8C4NXE5",
-  "TZ3M6I7R"
+  "MCNW97UY"
 ]
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Initial test checkin
+Official case names aren't italicized when cited in the full citation for law review articles.
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>United States v. Schmuck</i>, 840 F.2d 384 (7th Cir. 1988), <i>aff’d</i>, 489 U.S. 705 (1989)
+United States v. Schmuck, 840 F.2d 384 (7th Cir. 1988), <i>aff’d</i>, 489 U.S. 705 (1989)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
@@ -32,7 +32,7 @@ Initial test checkin
     },
     {
       "prefix": "<i>aff'd</i>,",
-      "id": "TZ3M6I7R",
+      "id": "MCNW97UY",
       "position": 0
     }
   ]
@@ -63,7 +63,7 @@ Initial test checkin
     ]
   },
   {
-    "id": "TZ3M6I7R",
+    "id": "MCNW97UY",
     "type": "legal_case",
     "title": "Schmuck v. United States",
     "container-title": "U.S.",
@@ -77,11 +77,7 @@ Initial test checkin
         ]
       ]
     },
-    "shortTitle": "Schmuck",
-    "jurisdiction": "us",
-    "seeAlso": [
-      "A8C4NXE5"
-    ]
+    "jurisdiction": "us"
   }
 ]
 <<===== INPUT =====<<
