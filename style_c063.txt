@@ -1,6 +1,12 @@
 >>===== MODE =====>>
-citation-suppress_trailing_punctuation
+citation
 <<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
 
 >>===== KEYS =====>>
 [
@@ -9,22 +15,22 @@ citation-suppress_trailing_punctuation
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Initial test checkin
+Official case names aren't italicized when cited in the full citation for law review articles.
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Helton v. State</i>, 311 So. 2d 381, 382–84 (Fla. Dist. Ct. App. 1975)
+Helton v. State, 311 So. 2d 381, 382–84 (Fla. Dist. Ct. App. 1975)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
 [
-[
-  {
-    "id": "RMDSE7GL",
-    "position": 0,
-    "locator": "382-384"
-  }
-]
+  [
+    {
+      "id": "RMDSE7GL",
+      "position": 0,
+      "locator": "p. 382-384"
+    }
+  ]
 ]
 <<===== CITATION-ITEMS =====<<
 
