@@ -1,6 +1,12 @@
 >>===== MODE =====>>
-citation-suppress_trailing_punctuation
+citation
 <<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
 
 >>===== KEYS =====>>
 [
@@ -9,12 +15,25 @@ citation-suppress_trailing_punctuation
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Initial test checkin
+Official case names aren't italicized when cited in the full citation for law review articles.
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>see also</i> <i>Maryland v. King</i>, 133 S. Ct. 1958, 1989 (2013)
+<i>see also</i> Maryland v. King, 133 S. Ct. 1958, 1989 (2013)
 <<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "prefix": "<i>see also</i>",
+      "id": "A6YP7FGS",
+      "position": 0,
+      "locator": "p. 1989"
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -37,17 +56,3 @@ Initial test checkin
   }
 ]
 <<===== INPUT =====<<
-
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "prefix": "<i>see also</i>",
-      "id": "A6YP7FGS",
-      "position": 0,
-      "locator": "p. 1989"
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
