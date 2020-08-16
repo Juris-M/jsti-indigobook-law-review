@@ -1,6 +1,12 @@
 >>===== MODE =====>>
-citation-suppress_trailing_punctuation
+citation
 <<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
 
 >>===== KEYS =====>>
 [
@@ -9,21 +15,21 @@ citation-suppress_trailing_punctuation
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Initial test checkin
+Official case names aren't italicized when cited in the full citation for law review articles, but "ex rel." is. 
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Near v. Minnesota ex rel. Olson</i>, 283 U.S. 697 (1931)
+Near v. Minnesota <i>ex rel.</i> Olson, 283 U.S. 697 (1931)
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
 [
-[
-  {
-    "id": "DQ7WQRQH",
-    "position": 0
-  }
-]
+  [
+    {
+      "id": "DQ7WQRQH",
+      "position": 0
+    }
+  ]
 ]
 <<===== CITATION-ITEMS =====<<
 
@@ -35,7 +41,7 @@ Initial test checkin
     "title": "Near v. Minnesota ex rel. Olson",
     "container-title": "U.S.",
     "volume": "283",
-    "authority": "supreme.court",
+    "authority": "Supreme Court",
     "page": "697",
     "issued": {
       "date-parts": [
@@ -44,7 +50,7 @@ Initial test checkin
         ]
       ]
     },
-    "jurisdiction": "us"
+    "jurisdiction": "United States|US"
   }
 ]
 <<===== INPUT =====<<
