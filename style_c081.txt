@@ -1,5 +1,5 @@
 >>===== MODE =====>>
-citation-suppress_trailing_punctuation
+citation
 <<===== MODE =====<<
 
 >>===== OPTIONS =====>>
@@ -15,11 +15,11 @@ citation-suppress_trailing_punctuation
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Initial test checkin
+Official case names aren't italicized when cited in the full citation for law review articles.
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Macy’s Inc. v. Martha Stewart Living Omnimedia, Inc.</i>, No. 1728, slip op. at 1 (N.Y. App. Div. Feb. 26, 2015), <a href="http://www.nycourts.gov/reporter/3dseries/2015/2015_01728.htm">http://www.nycourts.gov/reporter/3dseries/2015/2015_01728.htm</a>
+Macy’s Inc. v. Martha Stewart Living Omnimedia, Inc., No. 1728, slip op. at 1 (N.Y. App. Div. Feb. 26, 2015), <a href="http://www.nycourts.gov/reporter/3dseries/2015/2015_01728.htm">http://www.nycourts.gov/reporter/3dseries/2015/2015_01728.htm</a>
 <<===== RESULT =====<<
 
 >>===== CITATION-ITEMS =====>>
