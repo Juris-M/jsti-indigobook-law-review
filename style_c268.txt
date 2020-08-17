@@ -1,6 +1,12 @@
 >>===== MODE =====>>
-citation-suppress_trailing_punctuation
+citation
 <<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
 
 >>===== KEYS =====>>
 [
@@ -9,12 +15,24 @@ citation-suppress_trailing_punctuation
 <<===== KEYS =====<<
 
 >>===== DESCRIPTION =====>>
-Initial test checkin
+Department of State reports should not be italicized.
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-U.S. Dep’t of State, Bureau of Democracy, H.R. and Lab., <i>International Religious Freedom Report</i> 14 (2014)
+U.S. Dep’t of State, Bureau of Democracy, H.R. and Lab., International Religious Freedom Report 14 (2014)
 <<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "PPBLTMTN",
+      "position": 0,
+      "locator": "p. 14"
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -34,23 +52,3 @@ U.S. Dep’t of State, Bureau of Democracy, H.R. and Lab., <i>International Reli
   }
 ]
 <<===== INPUT =====<<
-
-
->>===== OPTIONS =====>>
-{
-  "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "PPBLTMTN",
-      "position": 0,
-      "locator": "p. 14"
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
