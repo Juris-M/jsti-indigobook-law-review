@@ -13,7 +13,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-U.S. Dep’t of State, Bureau of Democracy, H.R. and Lab., <i>International Religious Freedom Report</i> 14 (2014)
+U.S. Dep’t of State, Bureau of Democracy, H.R. and Lab., International Religious Freedom Report 14 (2014)
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

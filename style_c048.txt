@@ -13,7 +13,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Indus. Union Dep’t, AFL-CIO v. Am. Petroleum Inst. (The Benzene Case), 448 U.S. 607, 645 (1980)
+Indus. Union Dep’t, AFL-CIO v. Am. Petroleum Inst. (<i>The Benzene Case</i>), 448 U.S. 607, 645 (1980)
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>
@@ -21,7 +21,7 @@ Indus. Union Dep’t, AFL-CIO v. Am. Petroleum Inst. (The Benzene Case), 448 U.S
   {
     "id": "P23AGNY3",
     "type": "legal_case",
-    "title": "Indus. Union Dep’t, AFL-CIO v. Am. Petroleum Inst. (The Benzene Case)",
+    "title": "Indus. Union Dep’t, AFL-CIO v. Am. Petroleum Inst. (<i>The Benzene Case</i>)",
     "container-title": "U.S.",
     "volume": "448",
     "authority": "supreme.court",

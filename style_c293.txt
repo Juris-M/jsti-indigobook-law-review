@@ -13,7 +13,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>The Year in Trade 2014: Operation of the Trade Agreements Program</i>, USITC Pub. 4543 (Jul. 2015)
+The Year in Trade 2014: Operation of the Trade Agreements Program, USITC Pub. 4543 (Jul. 2015)
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

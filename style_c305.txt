@@ -13,7 +13,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-<i>Facebook, Inc., 2014 Annual Report</i> (2014)
+Facebook, Inc., 2014 Annual Report (2014)
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

@@ -21,7 +21,7 @@ Initial test checkin
   {
     "id": "V7ESPKED",
     "type": "legal_case",
-    "title": "Liriano v. Hobart Corp. <span class=\"nodecor\">(</span>Liriano II<span class=\"nodecor\">)</span>",
+    "title": "Liriano v. Hobart Corp. (<i>Liriano II</i>)",
     "container-title": "N.Y.2d",
     "volume": "92",
     "authority": "court.appeals",

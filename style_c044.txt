@@ -13,7 +13,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Liriano v. Hobart Corp. (Liriano II), 92 N.Y.2d 232 (1998)
+Liriano v. Hobart Corp. (<i>Liriano II</i>), 92 N.Y.2d 232 (1998)
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>
@@ -21,7 +21,7 @@ Liriano v. Hobart Corp. (Liriano II), 92 N.Y.2d 232 (1998)
   {
     "id": "V7ESPKED",
     "type": "legal_case",
-    "title": "Liriano v. Hobart Corp. <span class=\"nodecor\">(</span>Liriano II<span class=\"nodecor\">)</span>",
+    "title": "Liriano v. Hobart Corp. (<i>Liriano II</i>)",
     "container-title": "N.Y.2d",
     "volume": "92",
     "authority": "court.appeals",
