@@ -68,6 +68,7 @@ Bowling Green v. Godwin, 110 Ohio St.3d 58, 2006-Ohio-3563, 850 N.E.2d 698, ¶ 1
     "container-title": "N.E.2d",
     "volume": "850",
     "page": "698",
+    "authority": "supreme.court",
     "issued": {
       "date-parts": [
         [
@@ -75,7 +76,7 @@ Bowling Green v. Godwin, 110 Ohio St.3d 58, 2006-Ohio-3563, 850 N.E.2d 698, ¶ 1
         ]
       ]
     },
-    "jurisdiction": "us",
+    "jurisdiction": "us:oh",
     "seeAlso": [
       "9CSEJF6C",
       "7SNUTX49"
