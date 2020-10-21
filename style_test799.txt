@@ -1,0 +1,64 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "MCNW97UY"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test799
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Schmuck v. United States, 489 U.S. 705 (1989).
+FIRST w/LOCATOR
+  Schmuck v. United States, 489 U.S. 705, 123 (1989).
+FIRST w/LABEL
+  Schmuck v. United States, 489 U.S. 705, ¶ 123 (1989).
+IBID
+  <i>Id.</i>
+IBID w/LOCATOR
+  <i>Id.</i> at 123.
+SUBSEQUENT
+  <i>Schmuck v. United States</i>, 489 U.S. 705.
+SUBSEQUENT w/LOCATOR
+  <i>Schmuck v. United States</i>, 489 U.S. at 123.
+SUBSEQUENT w/BACKREF
+  <i>Schmuck v. United States</i>, 489 U.S. 705.
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>Schmuck v. United States</i>, 489 U.S. at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Schmuck v. United States, 489 U.S. 705 (1989).</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "title": "Schmuck v. United States",
+    "volume": "489",
+    "authority": "supreme.court",
+    "page": "705",
+    "issued": {
+      "date-parts": [
+        [
+          1989
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "container-title": "U.S.",
+    "jurisdiction": "us"
+  }
+]
+<<===== INPUT =====<<
