@@ -33,7 +33,7 @@ should pass test style_test027
     },
     "URL": "https://www.thefashionspot.com/buzz-news/forum-buzz/171203-justin-bieber-fronts-v-magazines-music-issue-forum-buzz/",
     "accessed": {
-      "raw": "2020-02-22T13:07:11Z"
+      "raw": "2020-02-22"
     },
     "multi": {
       "main": {},
