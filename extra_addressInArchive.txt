@@ -1,0 +1,66 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== KEYS =====>>
+[
+  "none"
+]
+<<===== KEYS =====<<
+
+>>===== RESULT =====>>
+W.E.B. Du Bois, Academic Freedom, Address at University of Wisconsin (Apr. 26, 1952), <i>in</i> <span style="font-variant:small-caps;">W. E. B. Du Bois Papers</span> (MS 312) <span style="font-variant:small-caps;">Special Collections and University Archives, University of Massachussetts Amherst Libraries</span> 2–3 (Apr. 1952), <i>available at</i> bit.ly/DuBoisAF (visited Jun. 5, 2020)
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+	{
+        "id": "ITEM-1",
+		"type": "speech",
+		"multi": {
+			"main": {},
+			"_keys": {}
+		},
+		"archive": "Special Collections and University Archives, University of Massachussetts Amherst Libraries",
+		"archive_location": "MS 312",
+		"event-place": "University of Wisconsin",
+		"genre": "Address",
+		"publisher-place": "University of Wisconsin",
+		"title": "Academic freedom",
+		"URL": "bit.ly/DuBoisAF",
+		"archive_collection": "W. E. B. Du Bois Papers",
+		"author": [
+			{
+				"family": "Du Bois",
+				"given": "W.E.B.",
+				"multi": {
+					"_key": {}
+				}
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					6,
+					5
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1952",
+					4,
+					26
+				]
+			]
+		}
+	}
+]
+<<===== INPUT =====<<
+
