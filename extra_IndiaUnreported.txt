@@ -1,0 +1,44 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "Y7A93JYZ"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+The Court in this case lays down the reasoning why
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+%%RESULT%%
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "title": "Joseph v. Sub Inspector Of Police",
+    "authority": "hc",
+    "issued": {
+      "date-parts": [
+        [
+          2014,
+          4,
+          4
+        ]
+      ]
+    },
+    "language": "en",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "call-number": "IN394",
+    "jurisdiction": "in:kerala"
+  }
+]
+<<===== INPUT =====<<
