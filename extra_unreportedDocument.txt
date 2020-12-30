@@ -1,0 +1,76 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "6X4E8EBS"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test090
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Order on Motion for Leave to Proceed In Forma Pauperis, Smith v. State of Maine, No. 2:19-cv–00222, Doc. 5 (D. Me. May 15, 2019), https://www.courtlistener.com/docket/15675964/smith-v-state-of-maine/.
+FIRST w/LOCATOR
+  Order on Motion for Leave to Proceed In Forma Pauperis at 123, Smith v. State of Maine, No. 2:19-cv–00222, Doc. 5 (D. Me. May 15, 2019), https://www.courtlistener.com/docket/15675964/smith-v-state-of-maine/.
+FIRST w/LABEL
+  Order on Motion for Leave to Proceed In Forma Pauperis at 123, Smith v. State of Maine, No. 2:19-cv–00222, Doc. 5 (D. Me. May 15, 2019), https://www.courtlistener.com/docket/15675964/smith-v-state-of-maine/.
+IBID
+  <i>Id.</i>
+IBID w/LOCATOR
+  <i>Id.</i> at 123.
+SUBSEQUENT
+  Order on Motion for Leave to Proceed In Forma Pauperis, <i>Smith v. State of Maine</i>, No. 2:19-cv–00222, Doc. 5.
+SUBSEQUENT w/LOCATOR
+  Order on Motion for Leave to Proceed In Forma Pauperis at 123, <i>Smith v. State of Maine</i>, No. 2:19-cv–00222, Doc. 5.
+SUBSEQUENT w/BACKREF
+  Order on Motion for Leave to Proceed In Forma Pauperis, <i>Smith v. State of Maine</i>, No. 2:19-cv–00222, Doc. 5.
+SUBSEQUENT w/BACKREF+LOCATOR
+  Order on Motion for Leave to Proceed In Forma Pauperis at 123, <i>Smith v. State of Maine</i>, No. 2:19-cv–00222, Doc. 5.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Order on Motion for Leave to Proceed In Forma Pauperis, Smith v. State of Maine, No. 2:19-cv–00222, Doc. 5 (D. Me. May 15, 2019), https://www.courtlistener.com/docket/15675964/smith-v-state-of-maine/.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "title": "Smith v. State of Maine",
+    "authority": "district.court",
+    "submitted": {
+      "date-parts": [
+        [
+          2019,
+          5,
+          15
+        ]
+      ]
+    },
+    "number": "2:19-cv-00222",
+    "URL": "https://www.courtlistener.com/docket/15675964/smith-v-state-of-maine/",
+    "accessed": {
+      "date-parts": [
+        [
+          2020,
+          12,
+          29
+        ]
+      ]
+    },
+    "note": "Event Date: Jun 26, 2019",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "document-number": "5",
+    "jurisdiction": "us:c1:me.d",
+    "document-name": "Order on Motion for Leave to Proceed In Forma Pauperis"
+  }
+]
+<<===== INPUT =====<<
