@@ -1,0 +1,66 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "BA8T6YP4"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+The appellant had applied for asylum in Belgium af
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Raad van State, A.205.073/XIV-34.271, 29 May 2013.
+FIRST w/LOCATOR
+  Raad van State, A.205.073/XIV-34.271, 29 May 2013, p. 123.
+FIRST w/LABEL
+  Raad van State, A.205.073/XIV-34.271, 29 May 2013, ¶ 123.
+IBID
+  <i>Id.</i>
+IBID w/LOCATOR
+  <i>Id.</i> p. 123.
+SUBSEQUENT
+  [CSL STYLE ERROR: reference with no printed form.].
+SUBSEQUENT w/LOCATOR
+  p. 123.
+SUBSEQUENT w/BACKREF
+  [CSL STYLE ERROR: reference with no printed form.].
+SUBSEQUENT w/BACKREF+LOCATOR
+  p. 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Raad van State, A.205.073/XIV-34.271, 29 May 2013.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "authority": "cs",
+    "issued": {
+      "date-parts": [
+        [
+          2013,
+          5,
+          29
+        ]
+      ]
+    },
+    "number": "A.205.073/XIV-34.271",
+    "language": "nl",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "call-number": "BE051",
+    "jurisdiction": "be",
+    "language-name": "nl"
+  }
+]
+<<===== INPUT =====<<
