@@ -13,7 +13,28 @@ The Court in this case lays down the reasoning why
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-%%RESULT%%
+FIRST
+  Joseph v. Sub Inspector Of Police, Kerala High Court, Apr. 4, 2014.
+FIRST w/LOCATOR
+  Joseph v. Sub Inspector Of Police, Kerala High Court, Apr. 4, 2014, at 123.
+FIRST w/LABEL
+  Joseph v. Sub Inspector Of Police, Kerala High Court, Apr. 4, 2014, ¶ 123.
+IBID
+  <i>Id.</i>
+IBID w/LOCATOR
+  <i>Id.</i> at 123.
+SUBSEQUENT
+  <i>Joseph v. Sub Inspector Of Police</i>.
+SUBSEQUENT w/LOCATOR
+  <i>Joseph v. Sub Inspector Of Police</i> at 123.
+SUBSEQUENT w/BACKREF
+  <i>Joseph v. Sub Inspector Of Police</i>.
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>Joseph v. Sub Inspector Of Police</i> at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Joseph v. Sub Inspector Of Police, Kerala High Court, Apr. 4, 2014.</div>
+</div>
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>
@@ -38,7 +59,8 @@ The Court in this case lays down the reasoning why
       "_keys": {}
     },
     "call-number": "IN394",
-    "jurisdiction": "in:kerala"
+    "jurisdiction": "in:kerala",
+    "language-name": "en"
   }
 ]
 <<===== INPUT =====<<
