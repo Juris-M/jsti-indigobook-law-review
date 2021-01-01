@@ -14,26 +14,26 @@ should pass test style_test090
 
 >>===== RESULT =====>>
 FIRST
-  Order on Motion for Leave to Proceed In Forma Pauperis, Smith v. State of Maine, No. 2:19-cv–00222, Doc. 5 (D. Me. May 15, 2019), https://www.courtlistener.com/docket/15675964/smith-v-state-of-maine/.
+  Order on Motion for Leave to Proceed In Forma Pauperis, Smith v. State of Maine, No. 2:19-cv-00222, Doc. 5 (D. Me. May 15, 2019), https://www.courtlistener.com/docket/15675964/smith-v-state-of-maine/.
 FIRST w/LOCATOR
-  Order on Motion for Leave to Proceed In Forma Pauperis at 123, Smith v. State of Maine, No. 2:19-cv–00222, Doc. 5 (D. Me. May 15, 2019), https://www.courtlistener.com/docket/15675964/smith-v-state-of-maine/.
+  Order on Motion for Leave to Proceed In Forma Pauperis at 123, Smith v. State of Maine, No. 2:19-cv-00222, Doc. 5 (D. Me. May 15, 2019), https://www.courtlistener.com/docket/15675964/smith-v-state-of-maine/.
 FIRST w/LABEL
-  Order on Motion for Leave to Proceed In Forma Pauperis at 123, Smith v. State of Maine, No. 2:19-cv–00222, Doc. 5 (D. Me. May 15, 2019), https://www.courtlistener.com/docket/15675964/smith-v-state-of-maine/.
+  Order on Motion for Leave to Proceed In Forma Pauperis at 123, Smith v. State of Maine, No. 2:19-cv-00222, Doc. 5 (D. Me. May 15, 2019), https://www.courtlistener.com/docket/15675964/smith-v-state-of-maine/.
 IBID
   <i>Id.</i>
 IBID w/LOCATOR
   <i>Id.</i> at 123.
 SUBSEQUENT
-  Order on Motion for Leave to Proceed In Forma Pauperis, <i>Smith v. State of Maine</i>, No. 2:19-cv–00222, Doc. 5.
+  Order on Motion for Leave to Proceed In Forma Pauperis, <i>Smith v. State of Maine</i>, No. 2:19-cv-00222, Doc. 5.
 SUBSEQUENT w/LOCATOR
-  Order on Motion for Leave to Proceed In Forma Pauperis at 123, <i>Smith v. State of Maine</i>, No. 2:19-cv–00222, Doc. 5.
+  Order on Motion for Leave to Proceed In Forma Pauperis at 123, <i>Smith v. State of Maine</i>, No. 2:19-cv-00222, Doc. 5.
 SUBSEQUENT w/BACKREF
-  Order on Motion for Leave to Proceed In Forma Pauperis, <i>Smith v. State of Maine</i>, No. 2:19-cv–00222, Doc. 5.
+  Order on Motion for Leave to Proceed In Forma Pauperis, <i>Smith v. State of Maine</i>, No. 2:19-cv-00222, Doc. 5.
 SUBSEQUENT w/BACKREF+LOCATOR
-  Order on Motion for Leave to Proceed In Forma Pauperis at 123, <i>Smith v. State of Maine</i>, No. 2:19-cv–00222, Doc. 5.
+  Order on Motion for Leave to Proceed In Forma Pauperis at 123, <i>Smith v. State of Maine</i>, No. 2:19-cv-00222, Doc. 5.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Order on Motion for Leave to Proceed In Forma Pauperis, Smith v. State of Maine, No. 2:19-cv–00222, Doc. 5 (D. Me. May 15, 2019), https://www.courtlistener.com/docket/15675964/smith-v-state-of-maine/.</div>
+  <div class="csl-entry">Order on Motion for Leave to Proceed In Forma Pauperis, Smith v. State of Maine, No. 2:19-cv-00222, Doc. 5 (D. Me. May 15, 2019), https://www.courtlistener.com/docket/15675964/smith-v-state-of-maine/.</div>
 </div>
 <<===== RESULT =====<<
 

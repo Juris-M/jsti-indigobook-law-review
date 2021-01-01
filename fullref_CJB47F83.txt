@@ -23,8 +23,8 @@ Compl., Jones v. Smith, No. 09-230 (9th Cir. Apr. 17, 2015)
     "type": "legal_case",
     "title": "Jones v. Smith",
     "authority": "court.appeals",
-    "number": "09\\-230",
-    "issued": {
+    "number": "09-230",
+    "submitted": {
       "date-parts": [
         [
           2015,
