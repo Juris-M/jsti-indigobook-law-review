@@ -1,0 +1,76 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "none"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Initial test checkin
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  A v. B, 2000-Ohio-123 (1st Dist.).
+FIRST w/LOCATOR
+  A v. B, 2000-Ohio-123, at 123 (1st Dist.).
+FIRST w/LABEL
+  A v. B, 2000-Ohio-123, ¶ 123 (1st Dist.).
+IBID
+  <i>Id.</i>
+IBID w/LOCATOR
+  <i>Id.</i> at 123.
+SUBSEQUENT
+  <i>A v. B</i>, 2000-Ohio-123.
+SUBSEQUENT w/LOCATOR
+  <i>A v. B</i>, 2000-Ohio-123, at 123.
+SUBSEQUENT w/BACKREF
+  <i>A v. B</i>, 2000-Ohio-123.
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>A v. B</i>, 2000-Ohio-123, at 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">A v. B, 2000-Ohio-123 (1st Dist.).</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "id": "ITEM-1",
+    "type": "legal_case",
+    "title": "A v. B",
+    "collection-number": "2000",
+    "page": "123",
+    "jurisdiction": "us:oh:d1",
+    "authority": "court.appeals",
+    "issued": {
+      "date-parts": [
+        [
+          "1952",
+          4,
+          26
+        ]
+      ]
+    }
+  }
+]
+<<===== INPUT =====<<
+
+
+>>===== ABBREVIATIONS =====>>
+{
+  "default": {},
+  "us:oh:d1": {
+    "institution-entire": {
+      "court.appeals": "!authority:Ohio Ct. App.>>>Ohio"
+    },
+    "institution-part": {
+      "court.appeals": "Ohio Ct. App. 1st Dist."
+    }
+  }
+}
+<<===== ABBREVIATIONS =====<<
