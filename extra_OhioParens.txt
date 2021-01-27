@@ -14,11 +14,11 @@ Initial test checkin
 
 >>===== RESULT =====>>
 FIRST
-  A v. B, 2000-Ohio-123 (1st Dist.).
+  <i>A v. B</i>, 2000-Ohio-123 (1st Dist.).
 FIRST w/LOCATOR
-  A v. B, 2000-Ohio-123, at 123 (1st Dist.).
+  <i>A v. B</i>, 2000-Ohio-123, at 123 (1st Dist.).
 FIRST w/LABEL
-  A v. B, 2000-Ohio-123, ¶ 123 (1st Dist.).
+  <i>A v. B</i>, 2000-Ohio-123, ¶ 123 (1st Dist.).
 IBID
   <i>Id.</i>
 IBID w/LOCATOR
@@ -33,7 +33,7 @@ SUBSEQUENT w/BACKREF+LOCATOR
   <i>A v. B</i>, 2000-Ohio-123, at 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">A v. B, 2000-Ohio-123 (1st Dist.).</div>
+  <div class="csl-entry"><i>A v. B</i>, 2000-Ohio-123 (1st Dist.).</div>
 </div>
 <<===== RESULT =====<<
 

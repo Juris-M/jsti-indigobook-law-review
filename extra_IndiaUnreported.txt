@@ -14,11 +14,11 @@ The Court in this case lays down the reasoning why
 
 >>===== RESULT =====>>
 FIRST
-  Joseph v. Sub Inspector Of Police, Kerala High Court, Apr. 4, 2014.
+  <i>Joseph v. Sub Inspector Of Police</i>, Kerala High Court, Apr. 4, 2014.
 FIRST w/LOCATOR
-  Joseph v. Sub Inspector Of Police, Kerala High Court, Apr. 4, 2014, at 123.
+  <i>Joseph v. Sub Inspector Of Police</i>, Kerala High Court, Apr. 4, 2014, at 123.
 FIRST w/LABEL
-  Joseph v. Sub Inspector Of Police, Kerala High Court, Apr. 4, 2014, ¶ 123.
+  <i>Joseph v. Sub Inspector Of Police</i>, Kerala High Court, Apr. 4, 2014, ¶ 123.
 IBID
   <i>Id.</i>
 IBID w/LOCATOR
@@ -33,7 +33,7 @@ SUBSEQUENT w/BACKREF+LOCATOR
   <i>Joseph v. Sub Inspector Of Police</i> at 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Joseph v. Sub Inspector Of Police, Kerala High Court, Apr. 4, 2014.</div>
+  <div class="csl-entry"><i>Joseph v. Sub Inspector Of Police</i>, Kerala High Court, Apr. 4, 2014.</div>
 </div>
 <<===== RESULT =====<<
 
