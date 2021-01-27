@@ -13,7 +13,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-A Book Named “John Cleveland’s Memoirs of a Woman of Pleasure” v. Attorney Gen. of Com. of Mass., 383 U.S. 413, 418 (1966)
+<i>A Book Named “John Cleveland’s Memoirs of a Woman of Pleasure” v. Attorney Gen. of Com. of Mass.</i>, 383 U.S. 413, 418 (1966)
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

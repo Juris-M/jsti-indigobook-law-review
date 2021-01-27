@@ -2,12 +2,6 @@
 citation-suppress_trailing_punctuation
 <<===== MODE =====<<
 
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
 >>===== KEYS =====>>
 [
   "RR8MAQTE"
@@ -19,20 +13,8 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-HP Enterprise Services, LLC, B-405692, 2012 CPD ¶ 13 (Comp. Gen. Dec. 14, 2011)
+<i>HP Enterprise Services, LLC</i>, B-405692, 2012 CPD ¶ 13 (Comp. Gen. Dec. 14, 2011)
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "RR8MAQTE",
-      "position": 0,
-      "locator": "para. 13"
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -58,3 +40,23 @@ HP Enterprise Services, LLC, B-405692, 2012 CPD ¶ 13 (Comp. Gen. Dec. 14, 2011)
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "RR8MAQTE",
+      "position": 0,
+      "locator": "para. 13"
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

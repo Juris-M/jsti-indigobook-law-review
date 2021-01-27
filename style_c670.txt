@@ -13,7 +13,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Smith v. Jones, 1999 UT App 16
+<i>Smith v. Jones</i>, 1999 UT App 16
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

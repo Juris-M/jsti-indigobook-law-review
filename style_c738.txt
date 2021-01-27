@@ -13,7 +13,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-ABC Company vs. XYZ Company, 2001 MP 1, ¶ 10
+<i>ABC Company vs. XYZ Company</i>, 2001 MP 1, ¶ 10
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

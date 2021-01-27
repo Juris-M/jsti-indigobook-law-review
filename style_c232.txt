@@ -13,7 +13,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Davey v. The Mary Frost, 7 F. Cas. 11 (E.D. Tex. 1876) (No. 3591)
+<i>Davey v. The Mary Frost</i>, 7 F. Cas. 11 (E.D. Tex. 1876) (No. 3591)
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

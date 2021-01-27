@@ -2,12 +2,6 @@
 citation-suppress_trailing_punctuation
 <<===== MODE =====<<
 
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
 >>===== KEYS =====>>
 [
   "558TEZRM"
@@ -19,19 +13,8 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-MP Environmental Funding LLC, SEC Interpretive Letter, 2007 WL 2838964 (Sep. 19, 2007)
+<i>MP Environmental Funding LLC</i>, SEC Interpretive Letter, 2007 WL 2838964 (Sep. 19, 2007)
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "558TEZRM",
-      "position": 0
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -58,3 +41,22 @@ MP Environmental Funding LLC, SEC Interpretive Letter, 2007 WL 2838964 (Sep. 19,
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "558TEZRM",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

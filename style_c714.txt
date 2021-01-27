@@ -13,7 +13,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Doe v. Roe, 2001 WI App 9, ¶ 17
+<i>Doe v. Roe</i>, 2001 WI App 9, ¶ 17
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

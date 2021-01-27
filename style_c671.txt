@@ -14,7 +14,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Smith v. Jones, 1999 UT 16, 380 Utah Adv. Rep. 24
+<i>Smith v. Jones</i>, 1999 UT 16, 380 Utah Adv. Rep. 24
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

@@ -13,7 +13,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Beastie Boys v. Monster Energy Co., No. 12 Civ. 6065 (S.D.N.Y. Dec. 4, 2014)
+<i>Beastie Boys v. Monster Energy Co.</i>, No. 12 Civ. 6065 (S.D.N.Y. Dec. 4, 2014)
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

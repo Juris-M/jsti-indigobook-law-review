@@ -2,12 +2,6 @@
 citation-suppress_trailing_punctuation
 <<===== MODE =====<<
 
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
 >>===== KEYS =====>>
 [
   "88PJ7TLI"
@@ -19,19 +13,8 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Federal Express Corporation, FAA Order No. 2002-20, 2002 WL 31777976 (Jan. 1, 2002)
+<i>Federal Express Corporation</i>, FAA Order No. 2002-20, 2002 WL 31777976 (Jan. 1, 2002)
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "88PJ7TLI",
-      "position": 0
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -59,3 +42,22 @@ Federal Express Corporation, FAA Order No. 2002-20, 2002 WL 31777976 (Jan. 1, 20
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "88PJ7TLI",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

@@ -13,7 +13,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Smith v. Jones, 2012 CO 22
+<i>Smith v. Jones</i>, 2012 CO 22
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

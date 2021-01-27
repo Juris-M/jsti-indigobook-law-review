@@ -14,7 +14,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Smith v. Jones, 93-2345 (La. App. 1 Cir. 7/15/94); 660 So.2d 400
+<i>Smith v. Jones</i>, 93-2345 (La. App. 1 Cir. 7/15/94); 660 So.2d 400
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

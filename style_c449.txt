@@ -14,7 +14,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Smith v. Jones, 93-2345 (La. 7/15/94); 650 So.2d 500
+<i>Smith v. Jones</i>, 93-2345 (La. 7/15/94); 650 So.2d 500
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

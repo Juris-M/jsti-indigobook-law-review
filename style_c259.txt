@@ -2,12 +2,6 @@
 citation-suppress_trailing_punctuation
 <<===== MODE =====<<
 
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
 >>===== KEYS =====>>
 [
   "9X7FQDVI"
@@ -19,19 +13,8 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Authority of Sec’y of Treasury to Compromise Final Judgments, 36 U.S. Op. Att’ Gen. 40 (1929)
+<i>Authority of Sec’y of Treasury to Compromise Final Judgments</i>, 36 U.S. Op. Att’ Gen. 40 (1929)
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "9X7FQDVI",
-      "position": 0
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -54,3 +37,22 @@ Authority of Sec’y of Treasury to Compromise Final Judgments, 36 U.S. Op. Att�
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "9X7FQDVI",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

@@ -14,11 +14,11 @@ should pass test style_test799
 
 >>===== RESULT =====>>
 FIRST
-  Schmuck v. United States, 489 U.S. 705 (1989).
+  <i>Schmuck v. United States</i>, 489 U.S. 705 (1989).
 FIRST w/LOCATOR
-  Schmuck v. United States, 489 U.S. 705, 123 (1989).
+  <i>Schmuck v. United States</i>, 489 U.S. 705, 123 (1989).
 FIRST w/LABEL
-  Schmuck v. United States, 489 U.S. 705, ¶ 123 (1989).
+  <i>Schmuck v. United States</i>, 489 U.S. 705, ¶ 123 (1989).
 IBID
   <i>Id.</i>
 IBID w/LOCATOR
@@ -33,7 +33,7 @@ SUBSEQUENT w/BACKREF+LOCATOR
   <i>Schmuck v. United States</i>, 489 U.S. at 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry">Schmuck v. United States, 489 U.S. 705 (1989).</div>
+  <div class="csl-entry"><i>Schmuck v. United States</i>, 489 U.S. 705 (1989).</div>
 </div>
 <<===== RESULT =====<<
 

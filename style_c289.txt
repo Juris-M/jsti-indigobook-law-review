@@ -2,12 +2,6 @@
 citation-suppress_trailing_punctuation
 <<===== MODE =====<<
 
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
 >>===== KEYS =====>>
 [
   "JH6M97Z6"
@@ -19,19 +13,8 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Phoenix Environmental Design, Inc., B-412503, 2016 WL 873296 (Comp. Gen. Mar. 7, 2016)
+<i>Phoenix Environmental Design, Inc.</i>, B-412503, 2016 WL 873296 (Comp. Gen. Mar. 7, 2016)
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "JH6M97Z6",
-      "position": 0
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -58,3 +41,22 @@ Phoenix Environmental Design, Inc., B-412503, 2016 WL 873296 (Comp. Gen. Mar. 7,
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "JH6M97Z6",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

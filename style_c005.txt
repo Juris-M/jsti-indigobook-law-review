@@ -13,7 +13,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Arizona v. Hicks, 480 U.S. 321, 329 (1987)
+<i>Arizona v. Hicks</i>, 480 U.S. 321, 329 (1987)
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

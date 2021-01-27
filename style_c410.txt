@@ -13,7 +13,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-People v. Doe, 2011 IL App (1st) 101234
+<i>People v. Doe</i>, 2011 IL App (1st) 101234
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

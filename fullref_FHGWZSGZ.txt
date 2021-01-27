@@ -2,12 +2,6 @@
 citation-suppress_trailing_punctuation
 <<===== MODE =====<<
 
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
 >>===== KEYS =====>>
 [
   "FHGWZSGZ"
@@ -19,19 +13,8 @@ Short form of FHGWZSGZ z0049 z0015 71 z4283 z0016 z0017 77 z4301 267 101 z4353 z
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-IAP-Hill, LLC, B-406289 et al, 2012 CPD ¶ 151 (Comp. Gen. Apr. 4, 2012)
+<i>IAP-Hill, LLC</i>, B-406289 et al, 2012 CPD ¶ 151 (Comp. Gen. Apr. 4, 2012)
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "FHGWZSGZ",
-      "position": 0
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -58,3 +41,22 @@ IAP-Hill, LLC, B-406289 et al, 2012 CPD ¶ 151 (Comp. Gen. Apr. 4, 2012)
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "FHGWZSGZ",
+      "position": 0
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

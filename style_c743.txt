@@ -13,7 +13,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Yumac Home Furniture v. Caguas Lumber Yard, 2015 TSPR 148
+<i>Yumac Home Furniture v. Caguas Lumber Yard</i>, 2015 TSPR 148
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

@@ -2,12 +2,6 @@
 citation-suppress_trailing_punctuation
 <<===== MODE =====<<
 
->>===== OPTIONS =====>>
-{
-    "wrap_url_and_doi": true
-}
-<<===== OPTIONS =====<<
-
 >>===== KEYS =====>>
 [
   "346EIQA9"
@@ -19,20 +13,8 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Donald Cutler, 11 E.A.D. 622, 623 (EAB 2004)
+<i>Donald Cutler</i>, 11 E.A.D. 622, 623 (EAB 2004)
 <<===== RESULT =====<<
-
->>===== CITATION-ITEMS =====>>
-[
-  [
-    {
-      "id": "346EIQA9",
-      "position": 0,
-      "locator": "p. 623"
-    }
-  ]
-]
-<<===== CITATION-ITEMS =====<<
 
 >>===== INPUT =====>>
 [
@@ -56,3 +38,23 @@ Donald Cutler, 11 E.A.D. 622, 623 (EAB 2004)
   }
 ]
 <<===== INPUT =====<<
+
+
+>>===== OPTIONS =====>>
+{
+  "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+
+>>===== CITATION-ITEMS =====>>
+[
+  [
+    {
+      "id": "346EIQA9",
+      "position": 0,
+      "locator": "p. 623"
+    }
+  ]
+]
+<<===== CITATION-ITEMS =====<<

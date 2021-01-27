@@ -13,7 +13,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Liriano v. Hobart Corp. (<i>Liriano II</i>), 92 N.Y.2d 232 (1998)
+<i>Liriano v. Hobart Corp. (<span style="font-style:normal;">Liriano II</span>)</i>, 92 N.Y.2d 232 (1998)
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

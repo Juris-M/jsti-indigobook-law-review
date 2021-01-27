@@ -13,7 +13,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Williamson v. United States, 184 F.2d 280 (Jackson, Circuit Justice, 2d Cir. 1950)
+<i>Williamson v. United States</i>, 184 F.2d 280 (Jackson, Circuit Justice, 2d Cir. 1950)
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>

@@ -13,7 +13,7 @@ Initial test checkin
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-Compl. at 5, Parsell v. Shell Oil Co., 421 F. Supp. 1275 (D. Conn. 1976)
+Compl. at 5, <i>Parsell v. Shell Oil Co.</i>, 421 F. Supp. 1275 (D. Conn. 1976)
 <<===== RESULT =====<<
 
 >>===== INPUT =====>>
