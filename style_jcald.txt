@@ -1,0 +1,31 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+I'm suggesting this more as a Rule 19.4, in order to encourage consistency when dealing with a rule that has already been finalized (so the "Prop. Treas. Reg." doesn't apply), but hasn't gone into effect. I'm open to the argument that because it hasn't gone into effect, that it should just be cited to the Federal Register, but I would counter that with the fact that if someone were to look back at the material, it would be more useful to them (i.e., the "future" researcher) to simply know where the reference is in their time (if we know now, where the text will go), rather than just giving them a way to look it up in the Federal Register.
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+Independent Contractor Status Under the Fair Labor Standards Act, 29 C.F.R. §&nbsp;795.105(c), 86 FR 1168, 1246 (Jan. 7, 2021) (final rule to be effective March 8, 2021 revising its interpretation of independent contractor status under the Fair Labor Standards Act).
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  {}
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[]
+<<===== INPUT =====<<
