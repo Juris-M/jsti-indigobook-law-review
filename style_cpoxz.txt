@@ -1,0 +1,31 @@
+>>===== MODE =====>>
+citation
+<<===== MODE =====<<
+
+>>===== OPTIONS =====>>
+{
+    "wrap_url_and_doi": true
+}
+<<===== OPTIONS =====<<
+
+>>===== KEYS =====>>
+[]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Calver v ACC [2019] NZHC 1581, 3 NZLR 261.
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+<i>Calver v ACC</i> [2019] NZHC 1581; <i>Calver v ACC</i> [2019] 3 NZLR 261 (NZHC).This is a parallel citation of a New Zealand case generated using the "JM New Zealand Law Style" which has a neutral citation, and was also reported in the New Zealand Law Reports. Rule 3.2 of the NZ Law Style guide requires both the neutral and reported citations where both are available.After linking both the neutral and reported citations, Jurism generates the above parallel citation without collapsing the case name and providing the court identifier at the end (not required as the court is indicated by the neutral citation).This citation could appear under cases - full citation of the IndigoBook.
+<<===== RESULT =====<<
+
+>>===== CITATION-ITEMS =====>>
+[
+  {}
+]
+<<===== CITATION-ITEMS =====<<
+
+>>===== INPUT =====>>
+[]
+<<===== INPUT =====<<
