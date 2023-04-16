@@ -38,7 +38,7 @@ Ala. Admin. Code r. 12-34-56.78 (2000)
 [
   {
     "id": "SHU3ZUFD",
-    "type": "legislation",
+    "type": "regulation",
     "container-title": "Ala. Admin. Code",
     "issued": {
       "date-parts": [

@@ -47,7 +47,7 @@ C.Z. Code tit. 654, § 987 (2000)
       ]
     },
     "section": "tit. 654, sec. 987",
-    "jurisdiction": "us"
+    "jurisdiction": "us:cz"
   }
 ]
 <<===== INPUT =====<<
